@@ -27,6 +27,11 @@ mail
 
 Interesting problem I was given by my CS teacher Tomas Holan.
 
+tmp_messages
+=============
+
+Experiments with Template Metaprogramming in C++ for implementation of protol with generic message passing api.
+
 word_chains
 =============
 
